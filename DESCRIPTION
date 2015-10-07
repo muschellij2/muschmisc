@@ -1,0 +1,15 @@
+Package: muschmisc
+Type: Package
+Title: Muschelli Miscellaneous
+Version: 0.0.1
+Date: 2015-10-07
+Author: John Muschelli
+Maintainer: John Muschelli <muschellij2@gmail.com>
+Description: Contains functions useful for data
+	analysis and organization.
+License: GPL-3
+Depends: R (>= 2.10), methods
+Imports: 
+  RefManageR,
+  yaml
+BugReports: https://github.com/muschellij2/muschmisc/issues
